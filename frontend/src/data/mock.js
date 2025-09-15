@@ -44,7 +44,7 @@ export const personalInfo = {
   phone: "(346) 219-4972",
     email: "amin.utkarsh01798@gmail.com",
     location: "Jersey City, NJ",
-  linkedin: "https://linkedin.com/in/utkarsh-a",
+  linkedin: "",
   github: "https://github.com/utkarsh-a",
   bio: "Experienced Full Stack Developer with 4+ years of expertise in building scalable microservices, optimizing performance, and integrating cutting-edge AI solutions. Proven track record of improving system performance by 40% and handling 500K+ daily requests with 99.9% uptime.",
 };
